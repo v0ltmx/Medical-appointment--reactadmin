@@ -3,9 +3,9 @@
 Prototype :warning:
 
 
-Back-end :computer: builded full
+Back-end :computer: 
 
 
 
-Front-end ( react-admin )in build:zap:
+Front-end (react-admin):zap:
 
